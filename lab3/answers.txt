@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It took very different running times in the best and the worst cases (sorted50000 - 5s and reversed50000 - 15s). It was fast in the best case and slow in the worst case.
+
+sort2 uses: Merge Sort
+
+How do you know?: This one took almost the same time in the best and the worst cases (sorted50000 - 5.5s and reversed50000 - 5s). Both were relatively fast.
+
+sort3 uses: Selection Sort
+
+How do you know?: Finally, the sort3 had aprox. the same running time in the best and the worst cases (sorted50000 - 10s and reversed50000 - 10s). Both were relatively slow.
